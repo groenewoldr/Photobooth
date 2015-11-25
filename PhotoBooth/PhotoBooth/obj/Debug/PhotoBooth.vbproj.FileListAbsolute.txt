@@ -1,0 +1,53 @@
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.config
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.PhotoBooth.resources
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.Resources.resources
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.vbproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.pdb
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.xml
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.xml
+c:\users\roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.pdb
+C:\Users\Roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.FrmPrint.resources
+C:\Users\Roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.manifest
+C:\Users\Roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.application
+C:\Users\Roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe.manifest
+C:\Users\Roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.application
+C:\Users\Roman\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.frmWait.resources
+E:\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.config
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.xml
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.pdb
+E:\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.manifest
+E:\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.application
+E:\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe
+E:\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.pdb
+E:\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.xml
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.FrmPrint.resources
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.frmWait.resources
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.PhotoBooth.resources
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.Resources.resources
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.vbproj.GenerateResource.Cache
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe.manifest
+E:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.application
+D:\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.config
+D:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe
+D:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.xml
+D:\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.pdb
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.config
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.xml
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.pdb
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.vbprojResolveAssemblyReference.cache
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.FrmPrint.resources
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.frmWait.resources
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.PhotoBooth.resources
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.Resources.resources
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.vbproj.GenerateResource.Cache
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.manifest
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.application
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.pdb
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.xml
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe.manifest
+C:\Users\Photobooth\Desktop\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.application
